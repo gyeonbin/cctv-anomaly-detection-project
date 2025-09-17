@@ -9,7 +9,6 @@
 
 - **4K @ 30fps 안정적 처리 성능** 검증  
 - **GPU VRAM RingBuffer** 구조로 장시간 안정적 버퍼링  
-- **Telemetry 로깅 시스템**: 성능 지표(렌더링 지연, dropped frames 등)를 자동 기록
 - **Kalman Filter 기반 Tracking**: 관측값이 없는 구간에서도 박스 위치를 예측하도록 해보았습니다.
 
 ---
